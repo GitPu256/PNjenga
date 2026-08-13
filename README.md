@@ -3,11 +3,6 @@
 <p align="center">
   <strong>AI · Cybersecurity · Explainable Detection Systems</strong>
 </p>
-
-<p align="center">
-  <strong>AI · Cybersecurity · Explainable Detection Systems</strong>
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20SOC%20Frameworks-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Stack-Python%20%7C%20XGBoost%20%7C%20LSTM-orange?style=for-the-badge" />
