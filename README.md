@@ -1,14 +1,15 @@
-<h1 align="center" class="typewriter">Hi, I'm Pu Njenga 👋🏾</h1>
+<h1 class="typewriter">AI · Cybersecurity · Explainable Detection Systems</h1>
 
 <style>
 .typewriter {
+  display: inline-block;
   overflow: hidden;
-  border-right: 3px solid #00ff9d; /* cursor color */
+  border-right: 3px solid #00ff9d;
   white-space: nowrap;
   margin: 0 auto;
   letter-spacing: 0.05em;
   animation: 
-    typing 3.5s steps(20, end),
+    typing 3.5s steps(40, end) forwards,
     blink-caret 0.75s step-end infinite;
 }
 
@@ -19,7 +20,7 @@
 
 @keyframes blink-caret {
   from, to { border-color: transparent }
-  50% { border-color: #00ff9d; }
+  50% { border-color: #00ff9d }
 }
 </style>
 
