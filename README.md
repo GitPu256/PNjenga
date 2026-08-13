@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Pu Njenga 👋</h1>
+<h1 align="center">Hi, I'm Pu Njenga 👋🏾</h1>
 
 <p align="center">
   <strong>AI · Cybersecurity · Explainable Detection Systems</strong>
