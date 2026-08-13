@@ -1,28 +1,8 @@
-<h1 class="typewriter">AI · Cybersecurity · Explainable Detection Systems</h1>
+<h1 align="center">Hi, I'm Pu Njenga 👋🏾</h1>
 
-<style>
-.typewriter {
-  display: inline-block;
-  overflow: hidden;
-  border-right: 3px solid #00ff9d;
-  white-space: nowrap;
-  margin: 0 auto;
-  letter-spacing: 0.05em;
-  animation: 
-    typing 3.5s steps(40, end) forwards,
-    blink-caret 0.75s step-end infinite;
-}
-
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: #00ff9d }
-}
-</style>
+<p align="center">
+  <strong>AI · Cybersecurity · Explainable Detection Systems</strong>
+</p>
 
 <p align="center">
   <strong>AI · Cybersecurity · Explainable Detection Systems</strong>
