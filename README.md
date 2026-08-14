@@ -70,12 +70,13 @@ I design hybrid detection pipelines, make model decisions transparent with expla
 </p>
 
 ---
+<p align="center">
+  <strong style="font-size: 1.4em;">AI · Cybersecurity · Explainable Detection Systems</strong>
+</p>
 
 <p align="center">
-  <strong>AI · Cybersecurity · Explainable Detection Systems</strong>
-
-<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/b01c3631-5d5a-4c7d-a34f-7841e2005ca6" />
-
+  <img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/b01c3631-5d5a-4c7d-a34f-7841e2005ca6" />
+</p>
 ---
 
 <p align="center">
