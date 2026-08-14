@@ -48,8 +48,8 @@ I design hybrid detection pipelines, make model decisions transparent with expla
         Designed to tackle alert fatigue, model opacity, and the absence of accountability in modern SOCs.
       </p>
     </td>
-    <td width="30%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PNjenga&repo=ai-soc-framework&theme=radical" />
+    <td width="50%" align="center">
+          <a href="https://github.com/PNjenga/ai-soc-framework">AI-Driven SOC Framework</a>
     </td>
   </tr>
 </table>
@@ -71,12 +71,10 @@ I design hybrid detection pipelines, make model decisions transparent with expla
 
 ---
 
-### GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PNjenga&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PNjenga&layout=compact&theme=radical&hide_border=true" height="160" />
-</p>
+  <strong>AI · Cybersecurity · Explainable Detection Systems</strong>
+
+<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/b01c3631-5d5a-4c7d-a34f-7841e2005ca6" />
 
 ---
 
